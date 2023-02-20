@@ -9,6 +9,5 @@ int b = 6;
 int c = a + b;
 
 int main() {
-	cout << c;
-
+	cout << "La suma de las variables internas es de " << c;
 }
